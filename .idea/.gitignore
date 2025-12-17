@@ -1,0 +1,8 @@
+# Default ignored files
+/../../InventorySystem./.idea/shelf/
+/../../InventorySystem./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../InventorySystem./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../InventorySystem./.idea/dataSources/
+/../../InventorySystem./.idea/dataSources.local.xml
